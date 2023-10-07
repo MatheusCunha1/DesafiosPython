@@ -1,5 +1,4 @@
-# Portfólio de Exercícios e Desafios em Python
-
+# Portfólio de Exercícios
 Este repositório é dedicado à minha coleção de exercícios e desafios resolvidos em Python. Aqui, você encontrará uma variedade de problemas que abrangem conceitos e técnicas de programação em Python.
 
 ## Objetivo
